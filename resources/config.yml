@@ -1,0 +1,4 @@
+anti_perle_blocks:
+  - "Sponge"
+  - "Bedrock"
+anti_perle_message: "Vous ne pouvez pas utiliser de perle sur ce type de bloc !"
